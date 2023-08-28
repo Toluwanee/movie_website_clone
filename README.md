@@ -18,3 +18,6 @@ You may also see any lint errors in the console.
 
 ### `npm run build`
 
+
+Here is a link to the picture of the website
+![ytshomepage](https://github.com/Toluwanee/movie_website_clone/assets/102164692/d39a0555-c6c8-4624-87de-6c817e7ccd18)
